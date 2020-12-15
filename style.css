@@ -1,0 +1,91 @@
+body {
+	background: white;	
+	color: rgb(50,50,50);
+	font-family: Montserrat;
+	font-size: 18px;	
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Avenir Light', sans-serif; 
+	font-size: bolder
+}
+h1 {
+	color: rgb(70,70,70);
+	font-size: 90px;
+	font-weight: bolder;
+	text-align: center;
+	
+}
+
+h2 {
+	color: rgb(70,70,70);
+	font-size: 50px; 
+	text-decoration: none; 
+
+}
+
+h3 {
+	color: rgb(219,154,57);
+	font-size: 35px
+}
+
+h4 {
+	color: rgb(226,199,93);
+	font-weight: bolder;
+	font-style: unset;
+	font-size: 19px;
+}
+
+div {
+	width: 1000px;
+	margin: 20px auto;
+}
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+}
+
+.card-beginning {
+	text-align: center;
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+}
+
+#image2 {
+	width: 1500px;
+	transform: translateX(-20%);
+}
+	
+#photo3 {
+	width: 1000;
+}
+
+#photo4 {
+	width: 400;
+}
+
+#img-right {
+width: 40%;
+float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
